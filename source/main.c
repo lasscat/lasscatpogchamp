@@ -12,7 +12,7 @@ int main(int argc, char **argv)
 	
 	printf("\nTo see what this app does search this link up:    \x1b[31mhttps://bit.ly/2VDfpJM\x1b[0m\n");
 	
-	printf("\n\x1b[29;0HPress start to go to homescreen or exit.");
+	printf("\n\Press start to go to homescreen or exit.");
 	
 	// Main loop
 	while (aptMainLoop())

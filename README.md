@@ -1,2 +1,8 @@
 # lasscatpogchamp
 some 3ds app source code
+
+#About
+This is just a app to rickroll your friends
+
+#Important
+I did not make some of these files (banner.exe and makerom)
